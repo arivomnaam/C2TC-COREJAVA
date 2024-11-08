@@ -1,5 +1,5 @@
 ////Program to demonstrate Hierarchical Inheritance - Student Class
-package com.tns.ifet.DayFive.HierarchicalInheritance;
+package com.tns.ifet.DayFive.hierarchicalinheritance;
 
 public class Student extends Person
 {

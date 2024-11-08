@@ -1,4 +1,4 @@
-package com.tns.ifet.daythree.ScannerDemo;
+package com.tns.ifet.daythree.scannerdemo;
 import java.util.Scanner;
 public class MainPerson {
 

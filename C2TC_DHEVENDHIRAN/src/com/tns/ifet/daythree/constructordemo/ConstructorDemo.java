@@ -1,4 +1,4 @@
-package com.tns.ifet.daythree.ConstructorDemo;
+package com.tns.ifet.daythree.constructordemo;
 import java.util.Scanner;
 public class ConstructorDemo {
 

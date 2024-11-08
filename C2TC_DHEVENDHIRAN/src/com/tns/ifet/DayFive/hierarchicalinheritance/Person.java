@@ -1,5 +1,5 @@
 //Program to demonstrate Hierarchical Inheritance - Person Class
-package com.tns.ifet.DayFive.HierarchicalInheritance;
+package com.tns.ifet.DayFive.hierarchicalinheritance;
 
 public class Person {
 	private String name;
