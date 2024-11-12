@@ -1,5 +1,4 @@
-//Program to demonstrate Jagged array 
-package com.tnsif.dayten;
+package com.tnsif.ifet.dayten;
 
 public class JaggedArrayDemo {
 

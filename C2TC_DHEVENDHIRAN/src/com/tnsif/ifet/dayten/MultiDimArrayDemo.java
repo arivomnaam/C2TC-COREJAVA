@@ -1,5 +1,4 @@
-//Program to demonstrate Multidimensional Array
-package com.tnsif.dayten;
+package com.tnsif.ifet.dayten;
 
 public class MultiDimArrayDemo {
 	public static void main(String[] args) {
